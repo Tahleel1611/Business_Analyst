@@ -1,0 +1,13 @@
+{
+  "kpis": {
+    "revenue": 54477.71,
+    "orders": 304,
+    "customers": 80,
+    "aov": 179.2
+  },
+  "churn": {
+    "f1": 1.0,
+    "roc_auc": 1.0
+  },
+  "rows": 304
+}

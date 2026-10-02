@@ -1,0 +1,81 @@
+customer_id,recency,frequency,monetary,recency_score,frequency_score,monetary_score,segment
+C0001,75,5,623.17,3,3,3,Loyal Customers
+C0002,142,1,197.0,4,1,1,Champions
+C0003,3,5,600.49,1,3,3,Loyal Customers
+C0004,48,3,598.15,2,1,2,Potential Loyalists
+C0005,288,3,187.19,4,1,1,Champions
+C0006,12,4,1102.14,1,2,4,At Risk
+C0007,214,2,418.8,4,1,2,Champions
+C0008,1,5,1140.45,1,3,4,Loyal Customers
+C0009,222,3,810.3299999999999,4,2,3,Champions
+C0010,38,7,1199.28,2,4,4,Loyal Customers
+C0011,95,4,1092.2,3,2,4,Potential Loyalists
+C0012,11,2,52.64,1,1,1,At Risk
+C0013,15,6,666.24,1,4,3,Loyal Customers
+C0014,32,3,724.33,2,2,3,Potential Loyalists
+C0015,58,4,380.29,3,2,1,Potential Loyalists
+C0016,54,4,600.45,2,3,3,Loyal Customers
+C0017,101,4,551.12,3,3,2,Potential Loyalists
+C0018,12,9,2507.08,1,4,4,Loyal Customers
+C0019,57,3,177.61,2,2,1,Potential Loyalists
+C0020,41,4,569.4200000000001,2,3,2,Potential Loyalists
+C0021,14,5,715.19,1,3,3,Loyal Customers
+C0022,13,8,1551.65,1,4,4,Loyal Customers
+C0023,103,2,541.78,3,1,2,Potential Loyalists
+C0024,32,4,834.69,2,3,3,Loyal Customers
+C0025,38,6,1148.73,2,4,4,Loyal Customers
+C0026,1,3,578.03,1,2,2,At Risk
+C0027,64,5,778.51,3,3,3,Loyal Customers
+C0028,14,4,578.29,1,3,2,At Risk
+C0029,11,2,534.7,1,1,2,At Risk
+C0030,36,7,704.56,2,4,3,Loyal Customers
+C0031,20,4,837.34,1,3,3,Loyal Customers
+C0032,123,6,877.09,4,4,3,Champions
+C0033,104,4,403.37,4,3,1,Champions
+C0034,87,5,1269.57,3,4,4,Loyal Customers
+C0035,41,3,375.19,2,2,1,Potential Loyalists
+C0036,181,2,386.91,4,1,1,Champions
+C0037,49,1,147.98,2,1,1,Potential Loyalists
+C0038,12,2,329.70000000000005,1,1,1,At Risk
+C0039,130,2,668.25,4,1,3,Champions
+C0040,63,5,1115.11,3,4,4,Loyal Customers
+C0041,112,4,643.1800000000001,4,3,3,Champions
+C0042,92,3,201.73,3,2,1,Potential Loyalists
+C0043,20,2,143.19,2,1,1,Potential Loyalists
+C0044,97,5,1111.3,3,4,4,Loyal Customers
+C0045,238,2,64.07000000000001,4,1,1,Champions
+C0046,90,5,1277.91,3,4,4,Loyal Customers
+C0047,62,3,562.86,3,2,2,Potential Loyalists
+C0048,155,3,664.1800000000001,4,2,3,Champions
+C0049,162,4,1102.98,4,3,4,Champions
+C0050,226,2,175.93,4,1,1,Champions
+C0051,60,5,560.02,3,4,2,Potential Loyalists
+C0052,75,4,1157.62,3,3,4,Loyal Customers
+C0053,30,2,415.14,2,1,2,Potential Loyalists
+C0054,182,1,136.59,4,1,1,Champions
+C0055,18,5,1072.21,1,4,4,Loyal Customers
+C0056,99,4,521.24,3,3,2,Potential Loyalists
+C0057,73,3,925.3199999999999,3,2,4,Potential Loyalists
+C0058,238,3,599.78,4,2,3,Champions
+C0059,8,5,715.9399999999999,1,4,3,Loyal Customers
+C0060,14,3,443.71000000000004,1,2,2,At Risk
+C0061,182,4,364.63,4,3,1,Champions
+C0062,72,3,414.46,3,2,2,Potential Loyalists
+C0063,15,6,1428.75,1,4,4,Loyal Customers
+C0064,15,6,1065.3,1,4,4,Loyal Customers
+C0065,279,2,377.53,4,1,1,Champions
+C0066,31,3,414.73,2,2,2,Potential Loyalists
+C0067,42,5,784.42,2,4,3,Loyal Customers
+C0068,143,4,574.03,4,3,2,Champions
+C0069,50,3,411.11,2,2,1,Potential Loyalists
+C0070,32,4,573.59,2,3,2,Potential Loyalists
+C0071,87,2,983.97,3,1,4,Potential Loyalists
+C0072,33,3,564.26,2,2,2,Potential Loyalists
+C0073,88,3,461.6,3,2,2,Potential Loyalists
+C0074,5,2,366.38,1,1,1,At Risk
+C0075,36,6,1198.4,2,4,4,Loyal Customers
+C0076,107,5,852.5300000000001,4,4,3,Champions
+C0077,26,2,469.7900000000001,2,1,2,Potential Loyalists
+C0078,69,4,1114.72,3,3,4,Loyal Customers
+C0079,134,5,685.42,4,4,3,Champions
+C0080,13,3,302.17,1,2,1,At Risk
